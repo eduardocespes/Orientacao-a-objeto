@@ -1,0 +1,11 @@
+
+public class TestaCartaoDeCredito {
+
+	public static void main(String[] args) {
+		
+		CartaoDeCredito = cdc1 = new TestaCartaoDeCredito();
+		
+
+	}
+
+}

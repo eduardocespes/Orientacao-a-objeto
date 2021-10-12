@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Estudo\Apostila k-19\Exercicios\orientacao-a-objetos\.metadata\.plugins\org.eclipse.jdt.core
+3132313831.index
